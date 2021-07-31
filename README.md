@@ -2,5 +2,27 @@
 
 ---
 
+### Problem Statement
 
+xxxxx
 
+### Data 
+
+#### Data Source
+xxx
+
+#### Data Dictionary
+
+#### Data Processing
+
+What I did to explore data.
+Clean data.
+Missing data.
+
+### Features
+
+### Modelling
+
+### Model Evaluation
+
+### Results and Recommendations
