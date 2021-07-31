@@ -28,7 +28,7 @@ What I did to explore data.
 ***Missing data***.
 
 ### Features
-1. <font color='red'>StandardScaler</font> on X feature
+1. <span style="color:red">StandardScaler</span> on X feature
 2. MinMaxScaler on Y feature
 3. Log transform on Z feature
 
