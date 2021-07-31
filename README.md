@@ -19,8 +19,8 @@ Here are my data sources:
 #### Data Processing
 
 What I did to explore data.  
-Clean data. <br>
-Missing data.
+**Clean data**. <br>
+***Missing data***.
 
 ### Features
 1. StandardScaler on X feature
